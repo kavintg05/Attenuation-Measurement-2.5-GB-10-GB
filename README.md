@@ -1,9 +1,12 @@
+
 # Attenuation Measurement 2.5 GB & 10 GB
 # Attenuation-Limited Fiber Length
+
+
 ## Objective
 - Calculate the attenuation-limited fiber length based on the power budget equation.  
 - Simulate the resulting system and verify that it meets performance objectives.
-- 
+
 ## Theory
 The **power budget equation** states that the power budget in a transmission system must equal the sum of all power losses plus the power margin.  
 The power budget is the difference between the transmitter output power and the receiver sensitivity in dBm:
