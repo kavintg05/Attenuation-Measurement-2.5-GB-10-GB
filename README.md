@@ -1,8 +1,5 @@
-
 # Attenuation Measurement 2.5 GB & 10 GB
 # Attenuation-Limited Fiber Length
-
-
 ## Objective
 - Calculate the attenuation-limited fiber length based on the power budget equation.  
 - Simulate the resulting system and verify that it meets performance objectives.
