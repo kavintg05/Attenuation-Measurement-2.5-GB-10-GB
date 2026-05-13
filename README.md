@@ -81,4 +81,14 @@ Your report should contain:
   |-------------------|-----------------------|----------|-----|
   
 
-- **Written Summary** of observations and explanations of differences.  
+- **Written Summary** of observations and explanations of differences.
+  
+  ## Calculation
+  <img width="902" height="1600" alt="image" src="https://github.com/user-attachments/assets/6f59d29c-892d-4e69-b5bf-d7695fc2f999" />
+
+  ## Output
+  <img width="902" height="1600" alt="image" src="https://github.com/user-attachments/assets/5e74ac69-48d2-4870-86d2-0e5fa9e0ac47" />
+
+ ## Result
+The calculated attenuation limited fiber length satisfied the required BER and Q factor in simulation.
+Increasing the fiber length to 125% reduced received power and degraded system performance.
