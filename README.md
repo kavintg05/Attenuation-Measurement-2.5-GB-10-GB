@@ -74,8 +74,7 @@ Your report should contain:
 
   
   ## Calculation
-  
-  <img width="902" height="1600" alt="image" src="https://github.com/user-attachments/assets/6f59d29c-892d-4e69-b5bf-d7695fc2f999" />
+  <img width="902" height="1317" alt="image" src="https://github.com/user-attachments/assets/cdd241a3-6574-4d51-b292-d6bf53f70fab" />
 
   ## Output
   
