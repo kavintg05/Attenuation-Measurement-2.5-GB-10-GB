@@ -77,8 +77,13 @@ Your report should contain:
   <img width="902" height="1317" alt="image" src="https://github.com/user-attachments/assets/cdd241a3-6574-4d51-b292-d6bf53f70fab" />
 
   ## Output
-  
-<img width="1599" height="1107" alt="image" src="https://github.com/user-attachments/assets/ca5c485d-ee04-4507-b3d7-345895c1ba33" />
+<img width="1918" height="1078" alt="Screenshot 2026-05-13 185513" src="https://github.com/user-attachments/assets/5b5acc24-90a1-46c7-9364-e1c0f748c594" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/64877596-3169-4fda-a654-41f00788861c" />
+
+
+<img width="1600" height="1082" alt="image" src="https://github.com/user-attachments/assets/008197c4-2d68-41d8-a713-cc47dbdd87be" />
+
 
 
  ## Result
