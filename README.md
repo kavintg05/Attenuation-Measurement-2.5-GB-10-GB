@@ -7,6 +7,8 @@
 ## Theory
 The **power budget equation** states that the power budget in a transmission system must equal the sum of all power losses plus the power margin.  
 The power budget is the difference between the transmitter output power and the receiver sensitivity in dBm:
+
+
 <img width="994" height="468" alt="image" src="https://github.com/user-attachments/assets/28074fe1-e571-4356-bf4c-29cf212c8173" />
 In this exercise, all parameters are given except the fiber length, which must be determined.  
 The **receiver sensitivity** is defined as the minimum power required to achieve a BER of <img width="54" height="38" alt="image" src="https://github.com/user-attachments/assets/56f53e67-161a-4d53-ba6e-e31a3725ea43" />, corresponding to a Q factor of 6.  
