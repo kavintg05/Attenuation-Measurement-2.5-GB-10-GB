@@ -71,15 +71,16 @@ Your report should contain:
   |-------------------|-----------------------|----------|-----|
   
 - **Written Summary** of observations and explanations of differences.
-  ---
+
+  
   ## Calculation
   
   <img width="902" height="1600" alt="image" src="https://github.com/user-attachments/assets/6f59d29c-892d-4e69-b5bf-d7695fc2f999" />
----
+
   ## Output
   
 <img width="1599" height="1107" alt="image" src="https://github.com/user-attachments/assets/ca5c485d-ee04-4507-b3d7-345895c1ba33" />
----
+
 
  ## Result
 The calculated attenuation limited fiber length satisfied the required BER and Q factor in simulation.
